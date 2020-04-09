@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>798111877427-nd930ia8bq31i2d59t08rv2dvdb9dp84.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.798111877427-nd930ia8bq31i2d59t08rv2dvdb9dp84</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCEw5parQKt98AJKzFGCNE2c8BXeHBGwJ4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>798111877427</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pupr.zutto</string>
+	<key>PROJECT_ID</key>
+	<string>zutto-a5ce3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zutto-a5ce3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:798111877427:ios:84a7289b97ffb568f0d646</string>
+	<key>DATABASE_URL</key>
+	<string>https://zutto-a5ce3.firebaseio.com</string>
+</dict>
+</plist>

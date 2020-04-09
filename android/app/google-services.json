@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "798111877427",
+    "firebase_url": "https://zutto-a5ce3.firebaseio.com",
+    "project_id": "zutto-a5ce3",
+    "storage_bucket": "zutto-a5ce3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798111877427:android:11a874ff2dc681c2f0d646",
+        "android_client_info": {
+          "package_name": "com.pupr.zutto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798111877427-3t04jabonn0s4rbj2f6qrdaqunqt23v8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pupr.zutto",
+            "certificate_hash": "38b3665f00020a48b8ecbaf9546b704274a89257"
+          }
+        },
+        {
+          "client_id": "798111877427-ciudirsfkrh3le7r4p7pegj24g1j3klt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqNA0LdiPm0HmF8l7zRlCittq5Azg2VwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798111877427-ciudirsfkrh3le7r4p7pegj24g1j3klt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "798111877427-nd930ia8bq31i2d59t08rv2dvdb9dp84.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pupr.zutto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
